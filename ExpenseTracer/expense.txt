@@ -1,0 +1,7 @@
+Expense{, Date='2025-06-01', category='transport', description='Metro Ticket', amount=40.0}
+Expense{, Date='2025-06-01', category='food', description='Breakfast', amount=80.0}
+Expense{, Date='2025-06-03', category='food', description='Lunch', amount=120.0}
+Expense{, Date='2025-06-03', category='groceries', description='Vegetables', amount=150.0}
+Expense{, Date='2025-06-05', category='food', description='Dinner', amount=180.0}
+Expense{, Date='2025-06-02', category='entertainment', description='Movie', amount=200.0}
+Expense{, Date='2025-06-04', category='shopping', description='Clothes', amount=1000.0}
